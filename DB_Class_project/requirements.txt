@@ -3,3 +3,5 @@ SQLAlchemy
 psycopg2-binary
 pandas
 supabase
+groq
+streamlit
